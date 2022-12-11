@@ -1,0 +1,55 @@
+[{
+  "_id": {
+    "$oid": "637961bce13c2a9b60ce3125"
+  },
+  "codigo": "1a",
+  "codcategoria": "1",
+  "nombre": "ACRILICO 75 ML AMARILLO MEDIO",
+  "precio": 2300,
+  "activo": true
+},{
+  "_id": {
+    "$oid": "637961bce13c2a9b60ce3126"
+  },
+  "codigo": "1b",
+  "codcategoria": "2",
+  "nombre": "BARRA SILICONA",
+  "precio": 4800,
+  "activo": true
+},{
+  "_id": {
+    "$oid": "637961bce13c2a9b60ce3127"
+  },
+  "codigo": "1c",
+  "codcategoria": "3",
+  "nombre": "CARTA L/ANCHO",
+  "precio": 1700,
+  "activo": true
+},{
+  "_id": {
+    "$oid": "637e7b4483b68e7f76b3a7cb"
+  },
+  "codigo": "1d",
+  "codcategoria": "4",
+  "nombre": "SET LAPIZ GEL AZUL",
+  "precio": 200,
+  "activo": true
+},{
+  "_id": {
+    "$oid": "637e7c0183b68e7f76b3a7d0"
+  },
+  "codigo": "1e",
+  "codcategoria": "5",
+  "nombre": "CARPETA CARTON MICROCORRUGADO",
+  "precio": 1100,
+  "activo": true
+},{
+  "_id": {
+    "$oid": "637e7cb983b68e7f76b3a7d3"
+  },
+  "codigo": "1f",
+  "codcategoria": "6",
+  "nombre": "LIBRETA ESPIRAL 60 HJS 1763",
+  "precio": 800,
+  "activo": true
+}]

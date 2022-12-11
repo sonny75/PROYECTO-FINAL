@@ -1,0 +1,48 @@
+[{
+  "_id": {
+    "$oid": "6379519d9dda795659741033"
+  },
+  "codigo": "1",
+  "nombre": "Acrilicos",
+  "activo": true
+ 
+},{
+  "_id": {
+    "$oid": "6379519d9dda795659741034"
+  },
+  "codigo": "2",
+  "nombre": "Adhesivos",
+  "activo": true
+  
+},{
+  "_id": {
+    "$oid": "637e77d883b68e7f76b3a7c0"
+  },
+  "codigo": "3",
+  "nombre": "Archivadores",
+  "activo": true
+  
+},{
+  "_id": {
+    "$oid": "637e782a83b68e7f76b3a7c1"
+  },
+  "codigo": "4",
+  "nombre": "Bolígrafos",
+  "activo": true
+  
+},{
+  "_id": {
+    "$oid": "637e787283b68e7f76b3a7c2"
+  },
+  "codigo": "5",
+  "nombre": "Carpetas",
+  "activo": true
+},{
+  "_id": {
+    "$oid": "637e78e383b68e7f76b3a7c3"
+  },
+  "codigo": "6",
+  "nombre": "Cuadernos y Libretas",
+  "activo": true
+  
+}]
